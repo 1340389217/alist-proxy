@@ -1,4 +1,4 @@
-const HOST = "https://xn--i0v44m.xyz/onedrive";
+const HOST = "https://xn--i0v44m.xyz";
 const TOKEN = "fb41225641c160e6eea5bb01e3778ab5";
 
 addEventListener("fetch", (event) => {
