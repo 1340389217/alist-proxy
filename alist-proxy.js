@@ -1,5 +1,5 @@
-const HOST = "YOUR_HOST";
-const TOKEN = "YOUR_TOKEN";
+const HOST = "https://xn--i0v44m.xyz/onedrive";
+const TOKEN = "fb41225641c160e6eea5bb01e3778ab5";
 
 addEventListener("fetch", (event) => {
     const request = event.request;
